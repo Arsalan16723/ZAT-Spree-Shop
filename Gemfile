@@ -18,6 +18,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'spree', '~> 3.2.0.rc1'
 gem 'spree_auth_devise', '~> 3.2.0.beta'
 gem 'spree_gateway', '~> 3.2.0.beta'
+gem 'spree_braintree_vzero', github: 'spree-contrib/spree_braintree_vzero'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
